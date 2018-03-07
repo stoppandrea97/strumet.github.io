@@ -1,4 +1,4 @@
 # EX
 
-In questa cartella sono raccolte le consegne delle esercitazioni previste dal corso
+In questa cartella sono raccolte le consegne degli esercizi previsti dal corso
 
