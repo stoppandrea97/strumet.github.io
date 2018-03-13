@@ -4,9 +4,13 @@
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
 	position: absolute;
-	top: 50%;
+	/*top: 50%;*/
 	text-align: center;
 	width: 100%;
+}
+
+#strumet_body ul{
+	list-style: circle;
 }
 
 .strumet_header_footer{
