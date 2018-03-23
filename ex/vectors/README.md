@@ -1,4 +1,4 @@
-# RASTER
+# VECTORS
 
 Gli esercizi che seguono hanno lo scopo di simulare, attraverso tipiche operazioni di editing,
 un processo di impaginazione per una tavola di presentazione di un progetto.   
