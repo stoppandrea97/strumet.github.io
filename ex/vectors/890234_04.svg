@@ -86,4 +86,17 @@
 <rect x="724.9" y="949.7" class="st3" width="184.3" height="184.3"/>
 <rect x="502.7" y="949.7" class="st3" width="184.3" height="184.3"/>
 <rect x="279.2" y="949.7" class="st3" width="184.3" height="184.3"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="334.3" y="63.8" width="241.4" height="241"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_2_);">
+		
+			<image style="overflow:visible;" width="1061" height="1600" xlink:href="../../../../../../Documents/20180317-143742/vv/DSC_0207.png"  transform="matrix(0.3176 0 0 0.3261 278.7351 -138.4905)">
+		</image>
+	</g>
+</g>
 </svg>
