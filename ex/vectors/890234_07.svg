@@ -4,142 +4,148 @@
 	 viewBox="0 0 1190.6 1190.6" style="enable-background:new 0 0 1190.6 1190.6;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#967550;}
-	.st1{fill:none;stroke:#01010A;stroke-miterlimit:10;}
-	.st2{fill:none;}
-	.st3{font-family:'OpenSans-Light';}
-	.st4{font-size:12px;}
-	.st5{fill:none;stroke:#A8C4D3;stroke-miterlimit:10;}
-	.st6{font-family:'OpenSans-Bold';}
-	.st7{font-size:60px;}
-	.st8{fill:none;stroke:#E5EEE1;stroke-miterlimit:10;}
-	.st9{clip-path:url(#SVGID_2_);}
-	.st10{clip-path:url(#SVGID_4_);}
-	.st11{font-family:'EBGaramond-Italic';}
-	.st12{font-size:10px;}
-	.st13{clip-path:url(#SVGID_6_);fill:none;stroke:#E5EEE1;stroke-miterlimit:10;}
-	.st14{clip-path:url(#SVGID_6_);}
+	.st1{fill:none;stroke:#775B46;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#B4BFC1;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#F4EFDC;stroke-miterlimit:10;}
+	.st4{font-family:'OpenSansCondensed-Bold';}
+	.st5{font-size:95.1282px;}
+	.st6{fill:none;}
+	.st7{font-family:'OpenSans-Light';}
+	.st8{font-size:16px;}
+	.st9{clip-path:url(#SVGID_6_);}
 </style>
-<rect x="-0.1" y="-0.6" class="st0" width="1191.2" height="1191.8"/>
-<rect x="57.8" y="64.5" class="st1" width="239.5" height="239.5"/>
-<rect x="612.7" y="64.5" class="st1" width="239.5" height="239.5"/>
-<rect x="334.9" y="64.6" class="st1" width="239.5" height="239.5"/>
-<rect x="889.4" y="64.5" class="st1" width="239.5" height="239.5"/>
-<rect x="57.8" y="341.8" class="st1" width="239.5" height="239.5"/>
-<rect x="278.9" y="213.1" class="st2" width="182.6" height="258.1"/>
-<text transform="matrix(1 0 0 1 278.89 222.2021)"><tspan x="0" y="0" class="st3 st4">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="24" class="st3 st4">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="48" class="st3 st4">diam nonummy nibh euismod </tspan><tspan x="0" y="72" class="st3 st4">tincidunt ut laoreet dolore magna </tspan><tspan x="0" y="96" class="st3 st4">aliquam erat volutpat. Ut wisi </tspan><tspan x="0" y="120" class="st3 st4">enim ad minim veniam, quis </tspan><tspan x="0" y="144" class="st3 st4">nostrud exerci tation ullamcorper </tspan><tspan x="0" y="168" class="st3 st4">suscipit lobortis nisl ut aliquip ex </tspan><tspan x="0" y="192" class="st3 st4">ea commodo consequat. Donse</tspan><tspan x="171.6" y="192" class="st3 st4">-</tspan><tspan x="0" y="216" class="st3 st4">quat, vel illum dolore eu feugiat </tspan><tspan x="0" y="240" class="st3 st4">nulla facilisis at vero eros </tspan></text>
-<rect x="334.9" y="342" class="st1" width="239.5" height="239.5"/>
-<rect x="889.4" y="342.2" class="st1" width="239.5" height="239.5"/>
-<rect x="57.8" y="618.1" class="st1" width="239.5" height="239.5"/>
-<rect x="612.7" y="618.1" class="st1" width="239.5" height="239.5"/>
-<rect x="334.9" y="618.3" class="st1" width="239.5" height="239.5"/>
-<rect x="889.4" y="618.1" class="st1" width="239.5" height="239.5"/>
-<rect x="57.8" y="894.5" class="st1" width="239.5" height="239.5"/>
-<rect x="612.7" y="894.5" class="st1" width="239.5" height="239.5"/>
-<rect x="334.9" y="894.5" class="st1" width="239.5" height="239.5"/>
-<rect x="889.4" y="894.4" class="st1" width="239.5" height="239.5"/>
-<rect x="57.8" y="64.5" class="st5" width="147.4" height="147.4"/>
-<rect x="242" y="64.5" class="st5" width="147.4" height="147.4"/>
-<rect x="427.8" y="64.5" class="st5" width="147.4" height="147.4"/>
-<rect x="276.3" y="66.7" class="st2" width="465.2" height="67.6"/>
-<text transform="matrix(1 0 0 1 276.3392 112.33)" class="st6 st7">Lorem ipsum </text>
-<rect x="797.3" y="64.5" class="st5" width="147.4" height="147.4"/>
-<rect x="981.5" y="64.5" class="st5" width="147.4" height="147.4"/>
-<rect x="57.8" y="248.8" class="st5" width="147.4" height="147.4"/>
-<rect x="242" y="248.8" class="st5" width="147.4" height="147.4"/>
-<rect x="427.8" y="248.8" class="st5" width="147.4" height="147.4"/>
-<rect x="613.1" y="248.8" class="st5" width="147.4" height="147.4"/>
-<rect x="797.3" y="248.8" class="st5" width="147.4" height="147.4"/>
-<rect x="981.5" y="248.8" class="st5" width="147.4" height="147.4"/>
-<rect x="57.8" y="433.9" class="st5" width="147.4" height="147.4"/>
-<rect x="242" y="434.1" class="st5" width="147.4" height="147.4"/>
-<rect x="427.8" y="434.1" class="st5" width="147.4" height="147.4"/>
-<rect x="613.1" y="434.3" class="st5" width="147.4" height="147.4"/>
-<rect x="797.3" y="434.3" class="st5" width="147.4" height="147.4"/>
-<rect x="981.5" y="434.3" class="st5" width="147.4" height="147.4"/>
-<rect x="57.8" y="618.1" class="st5" width="147.4" height="147.4"/>
-<rect x="242" y="618.4" class="st5" width="147.4" height="147.4"/>
-<rect x="427.1" y="618.4" class="st5" width="147.4" height="147.4"/>
-<rect x="612.7" y="618.1" class="st5" width="147.4" height="147.4"/>
-<rect x="797.3" y="618.1" class="st5" width="147.4" height="147.4"/>
-<rect x="981.5" y="618.1" class="st5" width="147.4" height="147.4"/>
-<rect x="57.8" y="802.3" class="st5" width="147.4" height="147.4"/>
-<rect x="242" y="802.3" class="st5" width="147.4" height="147.4"/>
-<rect x="427.1" y="802.3" class="st5" width="147.4" height="147.4"/>
-<rect x="612.7" y="802.3" class="st5" width="147.4" height="147.4"/>
-<rect x="797.3" y="802.3" class="st5" width="147.4" height="147.4"/>
-<rect x="981.5" y="802.3" class="st5" width="147.4" height="147.4"/>
-<rect x="57.8" y="986.6" class="st5" width="147.4" height="147.4"/>
-<rect x="242" y="986.6" class="st5" width="147.4" height="147.4"/>
-<rect x="427.1" y="986.6" class="st5" width="147.4" height="147.4"/>
-<rect x="612.7" y="986.6" class="st5" width="147.4" height="147.4"/>
-<rect x="797.3" y="986.6" class="st5" width="147.4" height="147.4"/>
-<rect x="981.5" y="986.6" class="st5" width="147.4" height="147.4"/>
-<rect x="57.8" y="64.5" class="st8" width="184.3" height="184.3"/>
-<rect x="944.7" y="64.5" class="st8" width="184.3" height="184.3"/>
-<rect x="724.2" y="64.5" class="st8" width="184.3" height="184.3"/>
-<rect x="502.2" y="64.5" transform="matrix(1.889512e-02 -0.9998 0.9998 1.889512e-02 426.4977 747.934)" class="st8" width="184.3" height="184.3"/>
-<polygon class="st8" points="463.5,248.8 280,248.8 279.2,64.5 463.5,64.5 "/>
-<rect x="57.8" y="286.6" class="st8" width="184.3" height="184.3"/>
-<rect x="944.7" y="286.6" class="st8" width="184.3" height="184.3"/>
-<rect x="724.9" y="286.5" class="st8" width="184.3" height="184.3"/>
-<rect x="279.2" y="286.5" class="st8" width="184.3" height="184.3"/>
-<rect x="57.8" y="508.3" class="st8" width="184.3" height="184.3"/>
-<rect x="944.7" y="508.2" class="st8" width="184.3" height="184.3"/>
-<rect x="724.7" y="508.3" class="st8" width="184.3" height="184.3"/>
-<rect x="501.4" y="508.3" class="st8" width="184.3" height="184.3"/>
-<rect x="57.8" y="728.8" class="st8" width="184.3" height="184.3"/>
-<rect x="944.7" y="728.7" class="st8" width="184.3" height="184.3"/>
-<rect x="724.9" y="728.8" class="st8" width="184.3" height="184.3"/>
-<rect x="502.8" y="728.8" class="st8" width="184.3" height="184.3"/>
-<rect x="275.2" y="728.8" class="st8" width="184.3" height="184.3"/>
-<rect x="57.8" y="949.7" class="st8" width="184.3" height="184.3"/>
-<rect x="944.7" y="949.7" class="st8" width="184.3" height="184.3"/>
-<rect x="724.9" y="949.7" class="st8" width="184.3" height="184.3"/>
-<rect x="502.7" y="949.7" class="st8" width="184.3" height="184.3"/>
-<rect x="279.2" y="949.7" class="st8" width="184.3" height="184.3"/>
-<g>
+<g id="Livello_1_1_">
+	<title>Tavola disegno 1</title>
+	<rect y="0" class="st0" width="1190.6" height="1190.6"/>
+</g>
+<g id="Livello_2_1_">
 	<g>
-		<defs>
-			<rect id="SVGID_1_" x="888.1" y="63.9" width="241.4" height="240.5"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st9">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="1061" height="1600" xlink:href="../../../../../../Documents/20180317-143742/vv/DSC_0207.png"  transform="matrix(0.3176 0 0 0.3254 832.5273 -137.9758)">
-			</image>
-		</g>
+		<rect x="60.9" y="60.9" class="st1" width="239.5" height="239.5"/>
+		<rect x="337.3" y="60.9" class="st1" width="239.5" height="239.5"/>
+		<rect x="613.7" y="60.9" class="st1" width="239.5" height="239.5"/>
+		<rect x="890.1" y="60.9" class="st1" width="239.5" height="239.5"/>
+		<rect x="60.9" y="337.3" class="st1" width="239.5" height="239.5"/>
+		<rect x="337.3" y="337.3" class="st1" width="239.5" height="239.5"/>
+		<rect x="613.7" y="337.3" class="st1" width="239.5" height="239.5"/>
+		<rect x="890.1" y="337.3" class="st1" width="239.5" height="239.5"/>
+		<rect x="60.9" y="613.7" class="st1" width="239.5" height="239.5"/>
+		<rect x="337.3" y="613.7" class="st1" width="239.5" height="239.5"/>
+		<rect x="613.7" y="613.7" class="st1" width="239.5" height="239.5"/>
+		<rect x="890.1" y="613.7" class="st1" width="239.5" height="239.5"/>
+		<rect x="60.9" y="890.1" class="st1" width="239.5" height="239.5"/>
+		<rect x="337.3" y="890.1" class="st1" width="239.5" height="239.5"/>
+		<rect x="613.7" y="890.1" class="st1" width="239.5" height="239.5"/>
+		<rect x="890.1" y="890.1" class="st1" width="239.5" height="239.5"/>
 	</g>
 </g>
-<g>
+<g id="Livello_4">
 	<g>
-		<defs>
-			<circle id="SVGID_3_" cx="367.4" cy="823.2" r="117"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st10">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="1005" height="1600" xlink:href="../../../../../../Documents/20180317-143742/vv/DSC_0254.png"  transform="matrix(0.24 0 0 0.24 247.4144 561.009)">
-			</image>
-		</g>
+		<rect x="60.9" y="60.9" class="st2" width="147.4" height="147.4"/>
+		<rect x="245.2" y="60.9" class="st2" width="147.4" height="147.4"/>
+		<rect x="429.4" y="60.9" class="st2" width="147.4" height="147.4"/>
+		<rect x="613.7" y="60.9" class="st2" width="147.4" height="147.4"/>
+		<rect x="798" y="60.9" class="st2" width="147.4" height="147.4"/>
+		<rect x="982.2" y="60.9" class="st2" width="147.4" height="147.4"/>
+		<rect x="60.9" y="245.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="245.2" y="245.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="429.4" y="245.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="613.7" y="245.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="798" y="245.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="982.2" y="245.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="60.9" y="429.4" class="st2" width="147.4" height="147.4"/>
+		<rect x="245.2" y="429.4" class="st2" width="147.4" height="147.4"/>
+		<rect x="429.4" y="429.4" class="st2" width="147.4" height="147.4"/>
+		<rect x="613.7" y="429.4" class="st2" width="147.4" height="147.4"/>
+		<rect x="798" y="429.4" class="st2" width="147.4" height="147.4"/>
+		<rect x="982.2" y="429.4" class="st2" width="147.4" height="147.4"/>
+		<rect x="60.9" y="613.7" class="st2" width="147.4" height="147.4"/>
+		<rect x="245.2" y="613.7" class="st2" width="147.4" height="147.4"/>
+		<rect x="429.4" y="613.7" class="st2" width="147.4" height="147.4"/>
+		<rect x="613.7" y="613.7" class="st2" width="147.4" height="147.4"/>
+		<rect x="798" y="613.7" class="st2" width="147.4" height="147.4"/>
+		<rect x="982.2" y="613.7" class="st2" width="147.4" height="147.4"/>
+		<rect x="60.9" y="798" class="st2" width="147.4" height="147.4"/>
+		<rect x="245.2" y="798" class="st2" width="147.4" height="147.4"/>
+		<rect x="429.4" y="798" class="st2" width="147.4" height="147.4"/>
+		<rect x="613.7" y="798" class="st2" width="147.4" height="147.4"/>
+		<rect x="798" y="798" class="st2" width="147.4" height="147.4"/>
+		<rect x="982.2" y="798" class="st2" width="147.4" height="147.4"/>
+		<rect x="60.9" y="982.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="245.2" y="982.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="429.4" y="982.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="613.7" y="982.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="798" y="982.2" class="st2" width="147.4" height="147.4"/>
+		<rect x="982.2" y="982.2" class="st2" width="147.4" height="147.4"/>
 	</g>
 </g>
-<rect x="505" y="801.4" class="st2" width="185.4" height="69.1"/>
-<text transform="matrix(1 0 0 1 504.9525 808.41)"><tspan x="0" y="0" class="st11 st12">Lorem ipsum dolor sit amet, consectetuer </tspan><tspan x="0" y="24" class="st11 st12">adipiscing elit, sed diam nonummy nibh euismod </tspan><tspan x="0" y="48" class="st11 st12">tincidunt ut laoreet dolore magna aliquam erat </tspan></text>
+<g id="Livello_3">
+	<g>
+		<rect x="60.9" y="60.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="282" y="60.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="503.1" y="60.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.3" y="60.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.4" y="60.9" class="st3" width="184.3" height="184.3"/>
+		<rect x="60.9" y="282" class="st3" width="184.3" height="184.3"/>
+		<rect x="282" y="282" class="st3" width="184.3" height="184.3"/>
+		<rect x="503.1" y="282" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.3" y="282" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.4" y="282" class="st3" width="184.3" height="184.3"/>
+		<rect x="60.9" y="503.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="282" y="503.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="503.1" y="503.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.3" y="503.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.4" y="503.1" class="st3" width="184.3" height="184.3"/>
+		<rect x="60.9" y="724.3" class="st3" width="184.3" height="184.3"/>
+		<rect x="282" y="724.3" class="st3" width="184.3" height="184.3"/>
+		<rect x="503.1" y="724.3" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.3" y="724.3" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.4" y="724.3" class="st3" width="184.3" height="184.3"/>
+		<rect x="60.9" y="945.4" class="st3" width="184.3" height="184.3"/>
+		<rect x="282" y="945.4" class="st3" width="184.3" height="184.3"/>
+		<rect x="503.1" y="945.4" class="st3" width="184.3" height="184.3"/>
+		<rect x="724.3" y="945.4" class="st3" width="184.3" height="184.3"/>
+		<rect x="945.4" y="945.4" class="st3" width="184.3" height="184.3"/>
+	</g>
+</g>
 <g>
 	<defs>
-		<circle id="SVGID_5_" cx="369.8" cy="600.4" r="92.1"/>
+		<rect id="SVGID_1_" x="503.1" y="282" width="184.3" height="184.3"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g transform="matrix(1 0 0 1 0 -3.814697e-06)" style="clip-path:url(#SVGID_2_);enable-background:new    ;">
+		
+			<image style="overflow:visible;" width="1061" height="1640" xlink:href="890234_03.jpg"  transform="matrix(0.2676 0 0 0.2927 447.2638 56.4001)">
+		</image>
+	</g>
+</g>
+<g>
+	<defs>
+		<circle id="SVGID_3_" cx="604.2" cy="817.9" r="118"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_4_);">
+		
+			<image style="overflow:visible;" width="1061" height="1600" xlink:href="890234_05.estensione.jpg"  transform="matrix(0.24 0 0 0.24 479.5413 634.371)">
+		</image>
+	</g>
+</g>
+<text transform="matrix(0.3835 0 0 1 281.8416 181.4775)" class="st4 st5">Lorem ipsum</text>
+<rect x="62.3" y="282.1" class="st6" width="234.2" height="446.5"/>
+<text transform="matrix(0.3835 0 0 1 62.2568 294.2465)"><tspan x="0" y="0" class="st7 st8">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh </tspan><tspan x="0" y="24" class="st7 st8">euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad </tspan><tspan x="0" y="48" class="st7 st8">minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip </tspan><tspan x="0" y="72" class="st7 st8">ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </tspan><tspan x="0" y="96" class="st7 st8">velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et </tspan><tspan x="0" y="120" class="st7 st8">accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue </tspan><tspan x="0" y="144" class="st7 st8">duis dolore te feugait nulla facilisi.</tspan><tspan x="0" y="168" class="st7 st8">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh </tspan><tspan x="0" y="192" class="st7 st8">euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad </tspan><tspan x="0" y="216" class="st7 st8">minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip </tspan><tspan x="0" y="240" class="st7 st8">ex ea commodo consequat.</tspan><tspan x="0" y="264" class="st7 st8">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh </tspan><tspan x="0" y="288" class="st7 st8">euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad </tspan><tspan x="0" y="312" class="st7 st8">minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip </tspan><tspan x="0" y="336" class="st7 st8">ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </tspan><tspan x="0" y="360" class="st7 st8">velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et </tspan><tspan x="0" y="384" class="st7 st8">accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue </tspan><tspan x="0" y="408" class="st7 st8">duis dolore te feugait nulla facilisi.</tspan><tspan x="0" y="432" class="st7 st8">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh </tspan></text>
+<g>
+	<defs>
+		<circle id="SVGID_5_" cx="937" cy="640.8" r="129.9"/>
 	</defs>
 	<clipPath id="SVGID_6_">
 		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
 	</clipPath>
-	<rect x="277.7" y="508.3" class="st13" width="184.3" height="184.3"/>
-	<g class="st14">
-		<rect x="280.6" y="492.5" class="st2" width="182.6" height="258.1"/>
-		<text transform="matrix(1 0 0 1 280.6236 501.5914)"><tspan x="0" y="0" class="st3 st4">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="24" class="st3 st4">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="48" class="st3 st4">diam nonummy nibh euismod </tspan><tspan x="0" y="72" class="st3 st4">tincidunt ut laoreet dolore magna </tspan><tspan x="0" y="96" class="st3 st4">aliquam erat volutpat. Ut wisi </tspan><tspan x="0" y="120" class="st3 st4">enim ad minim veniam, quis </tspan><tspan x="0" y="144" class="st3 st4">nostrud exerci tation ullamcorper </tspan><tspan x="0" y="168" class="st3 st4">suscipit lobortis nisl ut aliquip ex </tspan><tspan x="0" y="192" class="st3 st4">ea commodo consequat. Donse</tspan><tspan x="171.6" y="192" class="st3 st4">-</tspan><tspan x="0" y="216" class="st3 st4">quat, vel illum dolore eu feugiat </tspan><tspan x="0" y="240" class="st3 st4">nulla facilisis at vero eros </tspan></text>
+	<g class="st9">
+		<rect x="803.4" y="503.5" class="st6" width="280" height="444.7"/>
+		<text transform="matrix(0.3835 0 0 1 803.4069 515.6763)"><tspan x="0" y="0" class="st7 st8">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt </tspan><tspan x="0" y="24" class="st7 st8">ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="48" class="st7 st8">tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum </tspan><tspan x="0" y="72" class="st7 st8">iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla </tspan><tspan x="0" y="96" class="st7 st8">facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit </tspan><tspan x="0" y="120" class="st7 st8">augue duis dolore te feugait nulla facilisi.</tspan><tspan x="0" y="144" class="st7 st8">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt </tspan><tspan x="0" y="168" class="st7 st8">ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="192" class="st7 st8">tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</tspan><tspan x="0" y="216" class="st7 st8">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt </tspan><tspan x="0" y="240" class="st7 st8">ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </tspan><tspan x="0" y="264" class="st7 st8">tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum </tspan><tspan x="0" y="288" class="st7 st8">iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla </tspan><tspan x="0" y="312" class="st7 st8">facilisis at vero eros et accumsan et iusto odio dignissim qui bland</tspan></text>
 	</g>
 </g>
 </svg>
