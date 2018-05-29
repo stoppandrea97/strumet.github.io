@@ -52,23 +52,76 @@
 	.st39{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 </style>
 <g id="Слой_14">
-	<rect x="-10" class="st0" width="1200.6" height="1190.6"/>
-</g>
-<g id="Слой_12">
-</g>
-<g id="Слой_1">
-</g>
-<g id="Слой_5">
+	<rect x="0" y="0.2" class="st0" width="1190.6" height="1190.6"/>
 </g>
 <g id="Слой_2">
+	<rect x="333.6" y="54.5" class="st1" width="239.5" height="239.5"/>
+	<rect x="614.1" y="55.1" class="st1" width="239.5" height="239.5"/>
+	<rect x="893.2" y="55.1" class="st1" width="239.5" height="239.5"/>
+	<rect x="58.3" y="335" class="st1" width="239.5" height="239.5"/>
+	<rect x="333.1" y="335" class="st1" width="239.5" height="239.5"/>
+	<rect x="614.1" y="335.5" class="st1" width="239.5" height="239.5"/>
+	<rect x="893.2" y="335.5" class="st1" width="239.5" height="239.5"/>
+	<rect x="58.8" y="615.5" class="st1" width="239.5" height="239.5"/>
+	<rect x="333.1" y="615.5" class="st1" width="239.5" height="239.5"/>
+	<rect x="614.1" y="615.5" class="st1" width="239.5" height="239.5"/>
+	<rect x="893.2" y="615.5" class="st1" width="239.5" height="239.5"/>
+	<rect x="58.5" y="892.8" class="st1" width="239.5" height="239.5"/>
+	<rect x="333.1" y="892.8" class="st1" width="239.5" height="239.5"/>
+	<rect x="613.9" y="892.8" class="st1" width="239.5" height="239.5"/>
+	<rect x="893" y="892.8" class="st1" width="239.5" height="239.5"/>
+	<rect x="58.8" y="55.1" class="st1" width="239.5" height="239.5"/>
+</g>
+<g id="Слой_3">
+	<rect x="58.5" y="54.3" class="st2" width="147.4" height="147.4"/>
+	<rect x="242.6" y="54.5" class="st2" width="147.4" height="147.4"/>
+	<rect x="424.6" y="54.3" class="st2" width="147.4" height="147.4"/>
+	<rect x="613.8" y="54.5" class="st2" width="147.4" height="147.4"/>
+	<rect x="800.6" y="54.3" class="st2" width="147.4" height="147.4"/>
+	<rect x="984.8" y="54.3" class="st2" width="147.4" height="147.4"/>
+	<rect x="58.3" y="238.8" class="st2" width="147.4" height="147.4"/>
+	<rect x="242.6" y="238.8" class="st2" width="147.4" height="147.4"/>
+	<rect x="424.6" y="238.8" class="st2" width="147.4" height="147.4"/>
+	<rect x="613.8" y="238.6" class="st2" width="147.4" height="147.4"/>
+	<rect x="984.8" y="238.8" class="st2" width="147.4" height="147.4"/>
+	<rect x="800.6" y="238.6" class="st2" width="147.4" height="147.4"/>
+	<rect x="58.3" y="425.8" class="st2" width="147.4" height="147.4"/>
+	<rect x="242.6" y="425.8" class="st2" width="147.4" height="147.4"/>
+	<rect x="425.5" y="425.8" class="st2" width="147.4" height="147.4"/>
+	<rect x="613.8" y="428.3" class="st2" width="147.4" height="147.4"/>
+	<rect x="985" y="426.6" class="st2" width="147.4" height="147.4"/>
+	<rect x="800.6" y="428.3" class="st2" width="147.4" height="147.4"/>
+	<rect x="58.3" y="614.9" class="st2" width="147.4" height="147.4"/>
+	<rect x="242.6" y="615.5" class="st2" width="147.4" height="147.4"/>
+	<rect x="425.5" y="616" class="st2" width="147.4" height="147.4"/>
+	<rect x="613.8" y="616" class="st2" width="147.4" height="147.4"/>
+	<rect x="985" y="616" class="st2" width="147.4" height="147.4"/>
+	<rect x="800.6" y="615.5" class="st2" width="147.4" height="147.4"/>
+	<rect x="58.3" y="800.1" class="st2" width="147.4" height="147.4"/>
+	<rect x="242.9" y="800.7" class="st2" width="147.4" height="147.4"/>
+	<rect x="425.5" y="800.1" class="st2" width="147.4" height="147.4"/>
+	<rect x="614.1" y="800.7" class="st2" width="147.4" height="147.4"/>
+	<rect x="985" y="800.7" class="st2" width="147.4" height="147.4"/>
+	<rect x="800.6" y="800.1" class="st2" width="147.4" height="147.4"/>
+	<rect x="58.3" y="985.4" class="st2" width="147.4" height="147.4"/>
+	<rect x="243.4" y="985.4" class="st2" width="147.4" height="147.4"/>
+	<rect x="425.5" y="985.4" class="st2" width="147.4" height="147.4"/>
+	<rect x="613.8" y="985.4" class="st2" width="147.4" height="147.4"/>
+	<rect x="985" y="985.4" class="st2" width="147.4" height="147.4"/>
+	<rect x="800.6" y="985.4" class="st2" width="147.4" height="147.4"/>
+</g>
+<g id="Слой_16">
+	<text transform="matrix(1 0 0 1 58.4986 954.2952)"><tspan x="0" y="0" class="st3 st4 st5">Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. </tspan><tspan x="0" y="24" class="st3 st4 st5">Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. </tspan><tspan x="0" y="48" class="st3 st4 st5">Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. E</tspan><tspan x="0" y="72" class="st3 st4 st5">xcepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </tspan></text>
+</g>
+<g id="Слой_4">
 	<g>
 		<defs>
-			<rect id="SVGID_1_" x="58.5" y="36" width="239.5" height="239.5"/>
+			<rect id="SVGID_1_" x="58.3" y="54.5" width="184.3" height="184.3"/>
 		</defs>
 		<clipPath id="SVGID_2_">
 			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 		</clipPath>
-		<g style="clip-path:url(#SVGID_2_);">
+		<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_2_);">
 			
 				<image style="overflow:visible;" width="1013" height="672" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
 CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
@@ -4827,91 +4880,35 @@ c1TL4ZguXz1FQg5tNGEB+FidsaKfatfmpJ+Brpym137A4t5WvhzCuILcxviAN3EMT5X+OKAYgnrb
 EFtiS22LQLZYeHM6pOHpVraeeqjzRAQjXKRrcWNypu3w5YzVFVk7LRe8w1qcqqyyWhZsi42aozOL
 2mdHTdgXrH7tGsfEqMRYnlt54TKc4Ju1zBUw6jF5V7kTWy3LeI6ennqMwny2aoRmid5gRpDEafCA
 Lgj3bkjbBRpLdLczOdSnJpK6REM8OWxzQT1U01JBCqt3lyXkZvfbzVQBbpc74B/lyabu2Rxk7NKz
-ZDqocrzd+8SVZW94k1vdKAeQHmdiTa1rjB01kVtis9Snpb3H/9k=" transform="matrix(0.355 0 0 0.355 58.4987 36)">
+ZDqocrzd+8SVZW94k1vdKAeQHmdiTa1rjB01kVtis9Snpb3H/9k=" transform="matrix(0.3725 0 0 0.3725 -38.2505 12.9816)">
 			</image>
 		</g>
 	</g>
-	<rect x="333.3" y="36" class="st1" width="239.5" height="239.5"/>
-	<rect x="613.8" y="36" class="st1" width="239.5" height="239.5"/>
-	<rect x="892.9" y="36" class="st1" width="239.5" height="239.5"/>
-	<rect x="58.5" y="333.6" class="st1" width="239.5" height="239.5"/>
-	<rect x="333.3" y="333.6" class="st1" width="239.5" height="239.5"/>
-	<rect x="613.8" y="333.6" class="st1" width="239.5" height="239.5"/>
-	<rect x="892.9" y="333.6" class="st1" width="239.5" height="239.5"/>
-	<rect x="58.5" y="631.3" class="st1" width="239.5" height="239.5"/>
-	<rect x="335.4" y="631.3" class="st1" width="239.5" height="239.5"/>
-	<rect x="613.8" y="631.3" class="st1" width="239.5" height="239.5"/>
-	<rect x="892.9" y="631.3" class="st1" width="239.5" height="239.5"/>
-	<rect x="58.5" y="928.9" class="st1" width="239.5" height="239.5"/>
-	<rect x="335.4" y="928.9" class="st1" width="239.5" height="239.5"/>
-	<rect x="613.8" y="928.9" class="st1" width="239.5" height="239.5"/>
-	<rect x="892.9" y="928.9" class="st1" width="239.5" height="239.5"/>
-</g>
-<g id="Слой_3">
-	<rect x="60.3" y="35.3" class="st2" width="147.4" height="147.4"/>
-	<rect x="240.5" y="35.3" class="st2" width="147.4" height="147.4"/>
-	<rect x="423.7" y="35.3" class="st2" width="147.4" height="147.4"/>
-	<rect x="609.8" y="35.3" class="st2" width="147.4" height="147.4"/>
-	<rect x="794.4" y="35.3" class="st2" width="147.4" height="147.4"/>
-	<rect x="985.7" y="35.3" class="st2" width="147.4" height="147.4"/>
-	<rect x="60.3" y="233.8" class="st2" width="147.4" height="147.4"/>
-	<rect x="240.5" y="233.8" class="st2" width="147.4" height="147.4"/>
-	<rect x="423.7" y="233.8" class="st2" width="147.4" height="147.4"/>
-	<rect x="609.9" y="233.8" class="st2" width="147.4" height="147.4"/>
-	<rect x="985.7" y="233.8" class="st2" width="147.4" height="147.4"/>
-	<rect x="794.4" y="233.8" class="st2" width="147.4" height="147.4"/>
-	<rect x="59.5" y="432.2" class="st2" width="147.4" height="147.4"/>
-	<rect x="239.7" y="432.2" class="st2" width="147.4" height="147.4"/>
-	<rect x="422.9" y="432.2" class="st2" width="147.4" height="147.4"/>
-	<rect x="609.2" y="432.2" class="st2" width="147.4" height="147.4"/>
-	<rect x="985" y="432.2" class="st2" width="147.4" height="147.4"/>
-	<rect x="819.2" y="453.4" class="st2" width="147.4" height="147.4"/>
-	<rect x="59.5" y="630.6" class="st2" width="147.4" height="147.4"/>
-	<rect x="239.7" y="630.6" class="st2" width="147.4" height="147.4"/>
-	<rect x="422.9" y="630.6" class="st2" width="147.4" height="147.4"/>
-	<rect x="609.2" y="630.6" class="st2" width="147.4" height="147.4"/>
-	<rect x="985" y="630.6" class="st2" width="147.4" height="147.4"/>
-	<rect x="793.6" y="630.6" class="st2" width="147.4" height="147.4"/>
-	<rect x="59.5" y="829" class="st2" width="147.4" height="147.4"/>
-	<rect x="239.7" y="829" class="st2" width="147.4" height="147.4"/>
-	<rect x="422.9" y="829" class="st2" width="147.4" height="147.4"/>
-	<rect x="609.2" y="829" class="st2" width="147.4" height="147.4"/>
-	<rect x="985" y="829" class="st2" width="147.4" height="147.4"/>
-	<rect x="793.6" y="829" class="st2" width="147.4" height="147.4"/>
-	<rect x="59.5" y="1027.5" class="st2" width="147.4" height="147.4"/>
-	<rect x="239.7" y="1027.5" class="st2" width="147.4" height="147.4"/>
-	<rect x="422.9" y="1027.5" class="st2" width="147.4" height="147.4"/>
-	<rect x="609.2" y="1027.5" class="st2" width="147.4" height="147.4"/>
-	<rect x="985" y="1027.5" class="st2" width="147.4" height="147.4"/>
-	<rect x="793.6" y="1027.5" class="st2" width="147.4" height="147.4"/>
-	<text transform="matrix(1 0 0 1 66.305 956.9619)"><tspan x="0" y="0" class="st3 st4 st5">Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. </tspan><tspan x="0" y="24" class="st3 st4 st5">Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. </tspan><tspan x="0" y="48" class="st3 st4 st5">Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. E</tspan><tspan x="0" y="72" class="st3 st4 st5">xcepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </tspan></text>
-</g>
-<g id="Слой_4">
-	<rect x="58.3" y="36.7" class="st6" width="184.3" height="184.3"/>
-	<rect x="948" y="36.7" class="st6" width="184.3" height="184.3"/>
-	<rect x="283.2" y="36.7" class="st6" width="184.3" height="184.3"/>
-	<rect x="508.1" y="36.7" class="st6" width="184.3" height="184.3"/>
-	<rect x="729.3" y="36.7" class="st6" width="184.3" height="184.3"/>
-	<rect x="58.3" y="274.8" class="st6" width="184.3" height="184.3"/>
-	<rect x="948" y="274.8" class="st6" width="184.3" height="184.3"/>
-	<rect x="283.2" y="274.8" class="st6" width="184.3" height="184.3"/>
-	<rect x="508.1" y="274.8" class="st6" width="184.3" height="184.3"/>
-	<rect x="729.3" y="274.8" class="st6" width="184.3" height="184.3"/>
-	<rect x="58.3" y="512.9" class="st6" width="184.3" height="184.3"/>
+	<rect x="948" y="54.3" class="st6" width="184.3" height="184.3"/>
+	<rect x="283.2" y="54.5" class="st6" width="184.3" height="184.3"/>
+	<rect x="508.1" y="54.5" class="st6" width="184.3" height="184.3"/>
+	<rect x="725.5" y="54.5" class="st6" width="184.3" height="184.3"/>
+	<rect x="58.3" y="277.2" class="st6" width="184.3" height="184.3"/>
+	<rect x="948" y="278.3" class="st6" width="184.3" height="184.3"/>
+	<rect x="283.2" y="278.3" class="st6" width="184.3" height="184.3"/>
+	<rect x="508.1" y="278.3" class="st6" width="184.3" height="184.3"/>
+	<rect x="725.5" y="277.2" class="st6" width="184.3" height="184.3"/>
+	<rect x="58.3" y="500.3" class="st6" width="184.3" height="184.3"/>
 	<rect x="948" y="512.9" class="st7" width="184.3" height="184.3"/>
-	<rect x="283.2" y="512.9" class="st6" width="184.3" height="184.3"/>
-	<rect x="508.1" y="512.9" class="st6" width="184.3" height="184.3"/>
-	<rect x="729.3" y="512.9" class="st6" width="184.3" height="184.3"/>
-	<rect x="58.3" y="751" class="st6" width="184.3" height="184.3"/>
-	<rect x="948" y="751" class="st6" width="184.3" height="184.3"/>
-	<rect x="283.2" y="751" class="st6" width="184.3" height="184.3"/>
-	<rect x="508.1" y="751" class="st6" width="184.3" height="184.3"/>
-	<rect x="729.3" y="751" class="st6" width="184.3" height="184.3"/>
-	<rect x="58.3" y="989.1" class="st6" width="184.3" height="184.3"/>
-	<rect x="948" y="989.1" class="st6" width="184.3" height="184.3"/>
-	<rect x="283.2" y="989.1" class="st6" width="184.3" height="184.3"/>
-	<rect x="508.1" y="989.1" class="st6" width="184.3" height="184.3"/>
-	<rect x="729.3" y="989.1" class="st6" width="184.3" height="184.3"/>
+	<rect x="283.3" y="500.3" class="st6" width="184.3" height="184.3"/>
+	<rect x="506.3" y="500.3" class="st6" width="184.3" height="184.3"/>
+	<rect x="725.5" y="500.3" class="st6" width="184.3" height="184.3"/>
+	<rect x="58.3" y="724.2" class="st6" width="184.3" height="184.3"/>
+	<rect x="948" y="724.2" class="st6" width="184.3" height="184.3"/>
+	<rect x="283.2" y="724.2" class="st6" width="184.3" height="184.3"/>
+	<rect x="508.2" y="724.2" class="st6" width="184.3" height="184.3"/>
+	<rect x="725.5" y="724.2" class="st6" width="184.3" height="184.3"/>
+	<rect x="58.5" y="948.1" class="st6" width="184.3" height="184.3"/>
+	<rect x="948" y="948.1" class="st6" width="184.3" height="184.3"/>
+	<rect x="283.2" y="948.1" class="st6" width="184.3" height="184.3"/>
+	<rect x="508.2" y="948.1" class="st6" width="184.3" height="184.3"/>
+	<rect x="725.5" y="948.1" class="st6" width="184.3" height="184.3"/>
+	<rect x="948" y="500.3" class="st6" width="184.3" height="184.3"/>
 </g>
 <g id="Слой_6" class="st8">
 </g>
@@ -9303,7 +9300,7 @@ fQgScEoOgoO4OI8cZ+KveXzcoOT70LIAGKntUqhHckEEHNVMQUBOc0ROqDkEUIzDpmsj/9k=" transf
 	<rect x="72.4" y="848" class="st7" width="156" height="109.5"/>
 	<text transform="matrix(1 0 0 1 72.4351 890.5934)" class="st3 st15 st16">Prova</text>
 </g>
-<g id="Слой_9">
+<g id="Слой_9" class="st8">
 </g>
 <g id="Слой_10">
 	<text transform="matrix(1 0 0 1 66.305 288)" class="st3 st17 st18">Grand Budapest Hotel</text>
@@ -9901,13 +9898,13 @@ fQgScEoOgoO4OI8cZ+KveXzcoOT70LIAGKntUqhHckEEHNVMQUBOc0ROqDkEUIzDpmsj/9k=" transf
 	</g>
 	<g class="st20">
 		<g>
-			<path class="st21" d="M1008.8,662.1c0-0.2,0-0.4,0-0.7c0-0.7-0.7-1.1-1.4-1c-0.6,0.1-1.6,0.5-1.6,1.2c0,0.2,0,0.4,0,0.7
-				c0,0.7,0.7,1.1,1.4,1C1007.8,663.2,1008.8,662.8,1008.8,662.1L1008.8,662.1z"/>
+			<path class="st21" d="M1008.8,661.8c0-0.2,0-0.4,0-0.7c0-0.2-0.4-0.3-0.6-0.4c-0.3-0.1-0.7,0-1.1,0.1c-0.5,0.1-1.3,0.5-1.3,1.1
+				c0,0.2,0,0.4,0,0.7c0,0.2,0.4,0.3,0.6,0.4c0.3,0.1,0.7,0,1.1-0.1C1008,662.7,1008.8,662.4,1008.8,661.8L1008.8,661.8z"/>
 		</g>
 	</g>
 	<g class="st20">
 		<g>
-			<path class="st21" d="M1007.9,663.2c0.9,0,3.1-1.3,1.2-1.3C1008.2,661.8,1006,663.2,1007.9,663.2L1007.9,663.2z"/>
+			<path class="st21" d="M1007.9,663.3c1,0,3.1-1.6,1.2-1.6C1008,661.7,1006,663.3,1007.9,663.3L1007.9,663.3z"/>
 		</g>
 	</g>
 	<g class="st20">
