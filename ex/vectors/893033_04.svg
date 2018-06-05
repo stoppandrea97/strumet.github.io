@@ -147,17 +147,17 @@
 <rect x="613.8" y="982.3" class="st5" width="147.4" height="147.4"/>
 <rect x="798" y="982.3" class="st5" width="147.4" height="147.4"/>
 <rect x="982.3" y="982.3" class="st5" width="147.4" height="147.4"/>
-<g id="Layer_2_1_">
-	<rect x="60.9" y="60.9" class="st6" width="239.5" height="239.5"/>
-	<rect x="337.3" y="60.9" class="st6" width="239.5" height="239.5"/>
-	<rect x="613.7" y="60.9" class="st6" width="239.5" height="239.5"/>
-	<rect x="890.1" y="60.9" class="st6" width="239.5" height="239.5"/>
-	<rect x="60.9" y="337.2" class="st6" width="239.5" height="239.5"/>
-	<rect x="337.3" y="337.2" class="st6" width="239.5" height="239.5"/>
-	<rect x="613.7" y="337.2" class="st6" width="239.5" height="239.5"/>
-	<rect x="890.1" y="337.2" class="st6" width="239.5" height="239.5"/>
-	<rect x="60.9" y="613.6" class="st6" width="239.5" height="239.5"/>
-	<rect x="337.3" y="613.6" class="st6" width="239.5" height="239.5"/>
+<rect x="60.9" y="60.9" class="st6" width="239.5" height="239.5"/>
+<rect x="337.3" y="60.9" class="st6" width="239.5" height="239.5"/>
+<rect x="613.7" y="60.9" class="st6" width="239.5" height="239.5"/>
+<rect x="890.1" y="60.9" class="st6" width="239.5" height="239.5"/>
+<rect x="60.9" y="337.2" class="st6" width="239.5" height="239.5"/>
+<rect x="337.3" y="337.2" class="st6" width="239.5" height="239.5"/>
+<rect x="613.7" y="337.2" class="st6" width="239.5" height="239.5"/>
+<rect x="890.1" y="337.2" class="st6" width="239.5" height="239.5"/>
+<rect x="60.9" y="613.6" class="st6" width="239.5" height="239.5"/>
+<rect x="337.3" y="613.6" class="st6" width="239.5" height="239.5"/>
+<g>
 	<g>
 		<g>
 			<defs>
@@ -173,10 +173,10 @@
 			</g>
 		</g>
 	</g>
-	<rect x="890.1" y="613.6" class="st6" width="239.5" height="239.5"/>
-	<rect x="60.9" y="890" class="st6" width="239.5" height="239.5"/>
-	<rect x="337.3" y="890" class="st6" width="239.5" height="239.5"/>
-	<rect x="613.7" y="890" class="st6" width="239.5" height="239.5"/>
-	<rect x="890.1" y="890" class="st6" width="239.5" height="239.5"/>
 </g>
+<rect x="890.1" y="613.6" class="st6" width="239.5" height="239.5"/>
+<rect x="60.9" y="890" class="st6" width="239.5" height="239.5"/>
+<rect x="337.3" y="890" class="st6" width="239.5" height="239.5"/>
+<rect x="613.7" y="890" class="st6" width="239.5" height="239.5"/>
+<rect x="890.1" y="890" class="st6" width="239.5" height="239.5"/>
 </svg>
