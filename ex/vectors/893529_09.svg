@@ -20,26 +20,24 @@
 	.st14{font-family:'OpenSans-Light';}
 	.st15{font-size:16px;}
 </style>
+<rect class="st0" width="1190.6" height="1190.6"/>
+<rect x="60.9" y="60.9" class="st1" width="239.5" height="239.5"/>
+<rect x="337.4" y="60.9" class="st1" width="239.5" height="239.5"/>
+<rect x="613.8" y="60.9" class="st1" width="239.5" height="239.5"/>
+<rect x="890.3" y="60.9" class="st1" width="239.5" height="239.5"/>
+<rect x="60.9" y="337.4" class="st1" width="239.5" height="239.5"/>
+<rect x="337.4" y="337.4" class="st1" width="239.5" height="239.5"/>
+<rect x="613.8" y="337.4" class="st1" width="239.5" height="239.5"/>
+<rect x="890.3" y="337.4" class="st1" width="239.5" height="239.5"/>
+<rect x="60.9" y="613.8" class="st1" width="239.5" height="239.5"/>
+<rect x="337.4" y="613.8" class="st1" width="239.5" height="239.5"/>
+<rect x="613.8" y="613.8" class="st1" width="239.5" height="239.5"/>
+<rect x="890.3" y="613.8" class="st1" width="239.5" height="239.5"/>
+<rect x="60.9" y="890.3" class="st1" width="239.5" height="239.5"/>
+<rect x="337.4" y="890.3" class="st1" width="239.5" height="239.5"/>
+<rect x="613.8" y="890.3" class="st1" width="239.5" height="239.5"/>
+<rect x="890.3" y="890.3" class="st1" width="239.5" height="239.5"/>
 <title>Tavola disegno 1</title>
-<g id="Livello_1-2">
-	<rect y="0" class="st0" width="1190.6" height="1190.6"/>
-	<rect x="60.7" y="61" class="st1" width="239.5" height="239.5"/>
-	<rect x="337.1" y="61" class="st1" width="239.5" height="239.5"/>
-	<rect x="613.5" y="61" class="st1" width="239.5" height="239.5"/>
-	<rect x="889.8" y="61" class="st1" width="239.5" height="239.5"/>
-	<rect x="60.7" y="337.4" class="st1" width="239.5" height="239.5"/>
-	<rect x="337.1" y="337.4" class="st1" width="239.5" height="239.5"/>
-	<rect x="613.5" y="337.4" class="st1" width="239.5" height="239.5"/>
-	<rect x="889.8" y="337.4" class="st1" width="239.5" height="239.5"/>
-	<rect x="60.7" y="613.7" class="st1" width="239.5" height="239.5"/>
-	<rect x="337.1" y="613.7" class="st1" width="239.5" height="239.5"/>
-	<rect x="613.5" y="613.7" class="st1" width="239.5" height="239.5"/>
-	<rect x="889.8" y="612.7" class="st1" width="239.5" height="239.5"/>
-	<rect x="60.7" y="889.1" class="st1" width="239.5" height="239.5"/>
-	<rect x="337.1" y="889.1" class="st1" width="239.5" height="239.5"/>
-	<rect x="613.5" y="889.1" class="st1" width="239.5" height="239.5"/>
-	<rect x="889.8" y="889.1" class="st1" width="239.5" height="239.5"/>
-</g>
 <g id="Livello_3">
 	<rect x="60.9" y="60.9" class="st2" width="147.4" height="147.4"/>
 	<rect x="245.2" y="60.9" class="st2" width="147.4" height="147.4"/>
@@ -105,31 +103,35 @@
 <rect x="945.3" y="945.4" class="st3" width="184.3" height="184.3"/>
 <g>
 	<g>
-		<defs>
-			<rect id="SVGID_1_" x="282" y="503.1" width="184.3" height="184.3"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st5">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="5184" height="3456" xlink:href="893529_03.JPG"  transform="matrix(0.14 0 0 0.12 60.94 475.35)">
-			</image>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="282" y="503.1" width="184.3" height="184.3"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st5">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="5184" height="3456" xlink:href="893529_03.JPG"  transform="matrix(0.14 0 0 0.12 60.94 475.35)">
+				</image>
+			</g>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
-		<defs>
-			<circle id="SVGID_3_" cx="816.4" cy="596.2" r="96.3"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st6">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="5184" height="3456" xlink:href="893529_05.JPG"  transform="matrix(7.000000e-02 0 0 7.000000e-02 658.73 462.55)">
-			</image>
+		<g>
+			<defs>
+				<circle id="SVGID_3_" cx="816.4" cy="596.2" r="96.3"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st6">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="5184" height="3456" xlink:href="893529_05.JPG"  transform="matrix(7.000000e-02 0 0 7.000000e-02 658.73 462.55)">
+				</image>
+			</g>
 		</g>
 	</g>
 </g>
@@ -253,6 +255,6 @@
 <text transform="matrix(1 0 0 1 500.73 986.42)" class="st14 st15">msan et iusto odio dignis</text>
 <text transform="matrix(1 0 0 1 680.14 986.42)" class="st14 st15">-</text>
 <text transform="matrix(1 0 0 1 544.91 1010.42)" class="st14 st15">sim qui blandit</text>
-<image style="overflow:visible;" width="2599" height="2656" xlink:href="../../../../../Desktop/6EDC9ED5.png"  transform="matrix(0.1401 0 0 0.1401 59.8989 757.5533)">
+<image style="overflow:visible;enable-background:new    ;" width="2581" height="2642" xlink:href="../../../../UNIVERSITA&apos;/2° SEMESTRE/STRUMENTI DEL PROGETTO-FERRARA/6EDC9ED3.png"  transform="matrix(0.141 0 0 0.141 60.0538 757.4019)">
 </image>
 </svg>
