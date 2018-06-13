@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>designing increments - about</title>
+		<link rel="stylesheet" href="home.css">
+	</head>
+	<body id="strumet_body">
+
+		<script src="main.js"></script>
+
+		<script>
+
+var content = '<h1>Credits</h1>This site was made by:<br>';
+console.log(ab_list);
+var list = '<ul id="credit_list">' + Object.keys(ab_list).map(function (x) {
+	return '<li><a href="' + ab_list[x].path + '">' + ab_list[x].name + '</a></li>';
+}).join('') + '</ul>';
+
+var main = document.createElement("main");
+main.id = "strumet_main";
+main.className = "strumet";
+main.innerHTML = content + list;
+document.body.insertBefore(main, footer);
+
+		</script>
+	</body>
+</html>
