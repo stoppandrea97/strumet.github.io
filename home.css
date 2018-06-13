@@ -47,12 +47,12 @@
 
 #strumet_main ul#credit_list {
 	list-style: none; text-transform: capitalize;
-	display: flex; flex-flow: row wrap; justify-content: center;
+	display: flex; flex-flow: row wrap; justify-content: start;
 	text-align: left;
 }
 
 #strumet_main ul#credit_list li {
-	flex: 1 0 200px;
+	flex: 0 0 200px;
 }
 
 #strumet_main ul#credit_list a:link,
