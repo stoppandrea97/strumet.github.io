@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Strumet 2018</title>
+		<link rel="stylesheet" href="home.css">
+	</head>
+	<body id="strumet_body">
+		<script src="main.js"></script>
+		<script>
+
+			var main = document.createElement("main");
+			main.id = "strumet_main";
+			main.className = "strumet";
+			main.innerHTML = thumbs;
+			document.body.insertBefore(main, footer);
+			fix_caption();
+
+		</script>
+	</body>
+</html>
