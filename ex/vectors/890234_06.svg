@@ -7,17 +7,17 @@
 	.st1{fill:none;stroke:#775B46;stroke-miterlimit:10;}
 	.st2{fill:none;stroke:#B4BFC1;stroke-miterlimit:10;}
 	.st3{fill:none;stroke:#F4EFDC;stroke-miterlimit:10;}
-	.st4{font-family:'OpenSansCondensed-Bold';}
-	.st5{font-size:95.1282px;}
-	.st6{fill:none;}
-	.st7{font-family:'OpenSans-Light';}
-	.st8{font-size:16px;}
-	.st9{font-family:'EBGaramond-Italic';}
-	.st10{font-size:10px;}
+	.st4{clip-path:url(#SVGID_2_);enable-background:new    ;}
+	.st5{clip-path:url(#SVGID_4_);}
+	.st6{font-family:'OpenSansCondensed-Bold';}
+	.st7{font-size:95.1282px;}
+	.st8{fill:none;}
+	.st9{font-family:'OpenSans-Light';}
+	.st10{font-size:16px;}
 </style>
 <g id="Livello_1_1_">
 	<title>Tavola disegno 1</title>
-	<rect y="0" class="st0" width="1190.6" height="1190.6"/>
+	<rect x="3" y="-1" class="st0" width="1190.6" height="1190.6"/>
 </g>
 <g id="Livello_2_1_">
 	<g>
@@ -109,34 +109,54 @@
 	</g>
 </g>
 <g>
-	<defs>
-		<rect id="SVGID_1_" x="503.1" y="282" width="184.3" height="184.3"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-	</clipPath>
-	<g transform="matrix(1 0 0 1 0 -3.814697e-06)" style="clip-path:url(#SVGID_2_);enable-background:new    ;">
-		
-			<image style="overflow:visible;" width="1061" height="1640" xlink:href="890234_03.jpg"  transform="matrix(0.2676 0 0 0.2927 447.2638 56.4001)">
-		</image>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="503.1" y="282" width="184.3" height="184.3"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 0 -3.814697e-06)" class="st4">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="1061" height="1640" xlink:href="890234_03.jpg"  transform="matrix(0.2676 0 0 0.2927 447.2638 56.4001)">
+			</image>
+		</g>
 	</g>
 </g>
 <g>
-	<defs>
-		<circle id="SVGID_3_" cx="604.2" cy="817.9" r="118"/>
-	</defs>
-	<clipPath id="SVGID_4_">
-		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-	</clipPath>
-	<g style="clip-path:url(#SVGID_4_);">
-		
-			<image style="overflow:visible;" width="1061" height="1600" xlink:href="890234_05.estensione.jpg"  transform="matrix(0.24 0 0 0.24 479.5413 634.371)">
-		</image>
+	<g>
+		<defs>
+			<circle id="SVGID_3_" cx="604.2" cy="817.9" r="118"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st5">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="1061" height="1600" xlink:href="890234_05.jpg"  transform="matrix(0.24 0 0 0.24 479.5413 634.3709)">
+			</image>
+		</g>
 	</g>
 </g>
-<text transform="matrix(0.3835 0 0 1 281.8416 181.4775)" class="st4 st5">Lorem ipsum</text>
-<rect x="62.3" y="282.1" class="st6" width="219.7" height="415.4"/>
-<text transform="matrix(0.3835 0 0 1 62.2568 294.2465)"><tspan x="0" y="0" class="st7 st8">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy </tspan><tspan x="0" y="24" class="st7 st8">nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi </tspan><tspan x="0" y="48" class="st7 st8">enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis </tspan><tspan x="0" y="72" class="st7 st8">nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in </tspan><tspan x="0" y="96" class="st7 st8">hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat </tspan><tspan x="0" y="120" class="st7 st8">nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit </tspan><tspan x="0" y="144" class="st7 st8">praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</tspan><tspan x="0" y="168" class="st7 st8">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy </tspan><tspan x="0" y="192" class="st7 st8">nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi </tspan><tspan x="0" y="216" class="st7 st8">enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis </tspan><tspan x="0" y="240" class="st7 st8">nisl ut aliquip ex ea commodo consequat.</tspan><tspan x="0" y="264" class="st7 st8">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy </tspan><tspan x="0" y="288" class="st7 st8">nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi </tspan><tspan x="0" y="312" class="st7 st8">enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis </tspan><tspan x="0" y="336" class="st7 st8">nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in </tspan><tspan x="0" y="360" class="st7 st8">hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat </tspan><tspan x="0" y="384" class="st7 st8">nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit </tspan></text>
-<rect x="706.4" y="432.1" class="st6" width="219.6" height="75"/>
-<text transform="matrix(0.3835 0 0 1 706.4171 439.1965)"><tspan x="0" y="0" class="st9 st10">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut </tspan><tspan x="0" y="18" class="st9 st10">wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis </tspan></text>
+<text transform="matrix(0.3835 0 0 1 281.8418 181.4772)" class="st6 st7">Lorem ipsum</text>
+<rect x="62.3" y="282.1" class="st8" width="234.2" height="446.5"/>
+<text transform="matrix(0.3835 0 0 1 62.2568 294.2463)" class="st9 st10">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 318.2463)" class="st9 st10">euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 342.2463)" class="st9 st10">minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 366.2463)" class="st9 st10">ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 390.2463)" class="st9 st10">velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 414.2463)" class="st9 st10">accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 438.2463)" class="st9 st10">duis dolore te feugait nulla facilisi.</text>
+<text transform="matrix(0.3835 0 0 1 62.2568 462.2463)" class="st9 st10">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 486.2463)" class="st9 st10">euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 510.2463)" class="st9 st10">minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 534.2463)" class="st9 st10">ex ea commodo consequat.</text>
+<text transform="matrix(0.3835 0 0 1 62.2568 558.2463)" class="st9 st10">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 582.2463)" class="st9 st10">euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 606.2463)" class="st9 st10">minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 630.2463)" class="st9 st10">ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 654.2463)" class="st9 st10">velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 678.2463)" class="st9 st10">accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue </text>
+<text transform="matrix(0.3835 0 0 1 62.2568 702.2463)" class="st9 st10">duis dolore te feugait nulla facilisi.</text>
+<text transform="matrix(0.3835 0 0 1 62.2568 726.2463)" class="st9 st10">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh </text>
 </svg>
