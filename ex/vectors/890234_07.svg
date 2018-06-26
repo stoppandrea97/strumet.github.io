@@ -110,31 +110,35 @@
 </g>
 <g>
 	<g>
-		<defs>
-			<rect id="SVGID_1_" x="503.1" y="282" width="184.3" height="184.3"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-		</clipPath>
-		<g transform="matrix(1 0 0 1 0 -3.814697e-06)" class="st4">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="1061" height="1640" xlink:href="890234_03.jpg"  transform="matrix(0.2676 0 0 0.2927 447.2638 56.4001)">
-			</image>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="503.1" y="282" width="184.3" height="184.3"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g transform="matrix(1 0 0 1 0 -3.814697e-06)" class="st4">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="1061" height="1600" xlink:href="890234_03.jpg"  transform="matrix(0.2723 0 0 0.2978 444.7895 58.1728)">
+				</image>
+			</g>
 		</g>
 	</g>
 </g>
 <g>
 	<g>
-		<defs>
-			<circle id="SVGID_3_" cx="604.2" cy="817.9" r="118"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st5">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="1061" height="1600" xlink:href="890234_05.jpg"  transform="matrix(0.24 0 0 0.24 479.5413 634.3709)">
-			</image>
+		<g>
+			<defs>
+				<circle id="SVGID_3_" cx="604.2" cy="817.9" r="118"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st5">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="1061" height="1600" xlink:href="890234_05.jpg"  transform="matrix(0.24 0 0 0.24 479.5413 634.3708)">
+				</image>
+			</g>
 		</g>
 	</g>
 </g>
@@ -160,12 +164,6 @@
 <text transform="matrix(0.3835 0 0 1 62.2568 702.2463)" class="st9 st10">duis dolore te feugait nulla facilisi.</text>
 <text transform="matrix(0.3835 0 0 1 62.2568 726.2463)" class="st9 st10">Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh </text>
 <g>
-	<defs>
-		<circle id="SVGID_5_" cx="1008.5" cy="573" r="116.5"/>
-	</defs>
-	<clipPath id="SVGID_6_">
-		<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
-	</clipPath>
 	<text transform="matrix(0.3835 0 0 1 893.2568 391.2463)" class="st9 st10">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh </text>
 	<text transform="matrix(0.3835 0 0 1 893.2568 415.2463)" class="st9 st10">euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad </text>
 	<text transform="matrix(0.3835 0 0 1 893.2568 439.2463)" class="st9 st10">minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip </text>
