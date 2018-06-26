@@ -88,18 +88,20 @@
 <g id="Livello_5">
 	<rect x="337.4" y="337.4" class="st3" width="239.5" height="239.5"/>
 	<g>
-		<defs>
-			<rect id="SVGID_1_" x="613.7" y="337.4" width="239.5" height="239.5"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st4">
-			<g id="Livello_2-2">
-				<g id="_890725_03.psd">
-					
-						<image style="overflow:visible;" width="1900" height="1424" id="_890725_03" xlink:href="890725_03.png"  transform="matrix(0.37 0 0 0.37 392.4446 234.0572)">
-					</image>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="613.7" y="337.4" width="239.5" height="239.5"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st4">
+				<g id="Livello_2-2">
+					<g id="_890725_03.psd">
+						
+							<image style="overflow:visible;enable-background:new    ;" width="1900" height="1424" id="_890725_03" xlink:href="890725_03.png"  transform="matrix(0.37 0 0 0.37 392.4446 234.0572)">
+						</image>
+					</g>
 				</g>
 			</g>
 		</g>
@@ -121,17 +123,19 @@
 </g>
 <g id="Livello_6">
 	<g>
-		<defs>
-			<circle id="SVGID_3_" cx="337.4" cy="945.4" r="158.8"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st5">
-			<g id="foto.psd">
-				
-					<image style="overflow:visible;enable-background:new    ;" width="1184" height="802" id="foto" xlink:href="2CBB0400.png"  transform="matrix(0.538 0 0 0.538 34.1158 733.4501)">
-				</image>
+		<g>
+			<defs>
+				<circle id="SVGID_3_" cx="337.4" cy="945.4" r="158.8"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st5">
+				<g id="foto.psd">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="1184" height="802" id="foto" xlink:href="890725_05.png"  transform="matrix(0.538 0 0 0.538 34.1158 733.4501)">
+					</image>
+				</g>
 			</g>
 		</g>
 	</g>
