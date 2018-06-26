@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<link href="style.css" type="text/css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.icon').click(function(){
+    $('.icon').toggleClass('active')
+  })
+})
+</script>
+
+  </head>
+
+  <body style="background-color:#233041">
+
+<h2>Ciudad Lopez Mateos, Mexico</h2>
+<center>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120337.60303794051!2d-99.36096731532676!3d19.517982971156947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d21c8702d3fbff%3A0xc55a6bfc82e7c8e0!2sCiudad+L%C3%B3pez+Mateos%2C+Stato+del+Messico%2C+Messico!5e0!3m2!1sit!2sit!4v1529929835377" width="60%" height="600px" frameborder="0" allowfullscreen></iframe>
+</center>
+
+      <nav>
+
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="Interni.html">Interni</a></li>
+              <li><a href="Progetto.html">Progetto</a></li>
+              <li><a href="Mappa.html">Dove</a></li>
+          </ul>
+
+      </nav>
+
+      <div class="icon">
+        <div class="hamburger">
+      </div>
+
+ <script type="text/javascript">
+     (function() {
+
+         var bodyEl = $('body'),
+             navToggleBtn = bodyEl.find('.icon');
+
+         navToggleBtn.on('click', function(e) {
+             bodyEl.toggleClass('active-nav');
+             e.preventDefault();
+         });
+
+
+
+     })();
+
+
+ </script>
+
+
+
+ </body>
+</html>
