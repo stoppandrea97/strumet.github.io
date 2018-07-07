@@ -106,16 +106,18 @@
 <g>
 	<g>
 		<g>
-			<defs>
-				<rect id="SVGID_1_" x="503.1" y="282" width="184.3" height="184.3"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			<g transform="matrix(1 0 0 1 0 -3.814697e-06)" class="st4">
-				
-					<image style="overflow:visible;enable-background:new    ;" width="1061" height="1640" xlink:href="890234_03.jpg"  transform="matrix(0.2676 0 0 0.2927 447.2638 56.4001)">
-				</image>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="503.1" y="282" width="184.3" height="184.3"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g transform="matrix(1 0 0 1 0 -3.814697e-06)" class="st4">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="1061" height="1640" xlink:href="../accepted_works/vectors/890234_03.jpg"  transform="matrix(0.2676 0 0 0.2927 447.2638 56.4001)">
+					</image>
+				</g>
 			</g>
 		</g>
 	</g>
@@ -123,16 +125,18 @@
 <g>
 	<g>
 		<g>
-			<defs>
-				<circle id="SVGID_3_" cx="604.2" cy="817.9" r="118"/>
-			</defs>
-			<clipPath id="SVGID_4_">
-				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
-			</clipPath>
-			<g class="st5">
-				
-					<image style="overflow:visible;enable-background:new    ;" width="1061" height="1600" xlink:href="890234_05.jpg"  transform="matrix(0.24 0 0 0.24 479.5413 634.3708)">
-				</image>
+			<g>
+				<defs>
+					<circle id="SVGID_3_" cx="604.2" cy="817.9" r="118"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st5">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="1061" height="1600" xlink:href="890234_05.jpg"  transform="matrix(0.24 0 0 0.24 479.5413 634.3707)">
+					</image>
+				</g>
 			</g>
 		</g>
 	</g>
