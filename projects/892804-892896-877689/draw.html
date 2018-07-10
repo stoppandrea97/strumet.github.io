@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  *{
+    box-sizing: border-box;
+  }
+</style>
+</head>
+<body>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<div>
+    <div class="links">
+      <div class="links" id="links">
+        <a class="links" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+          <i class="fa fa-bars"></i>
+        </a>
+        <a href="Index.html" class="w3-bar-item w3-button">HOME</a>
+        <a href="http://www.inostudio.pl/" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i>INOSTUDIO</a>
+        <a href="draw.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> DISEGNI</a>
+        <a href="Foto.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i>FOTO</a>
+        <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
+          <i class="fa fa-search"></i>
+        </a>
+</div>
+<div class="row">
+  <div class="column">
+      <img src="pianta1.jpg" alt="Pianta piano terra" style: width="100%"onclick="myFunction(this);">
+  </div>
+  <div class="column">
+      <img src="pianta2.jpg" alt="Pianta primo piano"  style: width="100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+      <img src="sez1.jpg" alt="Sezione A-A" style: width="100%"onclick="myFunction(this);">
+  </div>
+  <div class="column">
+      <img src="sez2.jpg" alt="Sezione B-B" style: width="100%" onclick="myFunction(this);">
+</div>
+  </div>
+</div>
+<div class="container">
+<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+<img id="expandedImg" style="width:100%">
+<div id="imgtext"></div>
+</div>
+<div>
+    <div class="links2">
+      <div class="links2" id="links2">
+        <a class="links2" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+          <i class="fa fa-bars"></i>
+        </a>
+        <a href="Index.html" class="w3-bar-item w3-button">HOME</a>
+            <i class="fa fa-search"></i>
+        </a>
+<script>
+function myFunction(imgs) {
+var expandImg = document.getElementById("expandedImg");
+var imgText = document.getElementById("imgtext");
+expandImg.src = imgs.src;
+imgText.innerHTML = imgs.alt;
+expandImg.parentElement.style.display = "block";
+}
+</script>
+</body>
+</html>
