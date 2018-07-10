@@ -10,362 +10,296 @@
   <center>
     <img src = "logo.png"
     <br>
-  <center>
   <h1> <span style="font-family: Megan June; font-size: 270px; color: white;">WH RESIDENCE</span>
   </h1>
     <h2> <span style="font-family: Megan June; font-size: 70px; color: white;">M3 Architects</span>
     </h2>
   </br>
-    <br>
-    <h3> <span style="font-family: Avenir Light; font-size: 50px; color: white;">WH RESIDENCE</span>
-    </h3>
-  </br>
+<br>
 
-  <br>
-  <h3> <span style="font-family: Avenir; font-size: 30px; color: white;">INTERNI</span>
-  </h3>
-  </br>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <br>
-  <style>
-  * {box-sizing: border-box}
-  body {font-family: Avenir, sans-serif; margin:0}
-  .mySlides {display: none}
-  img {vertical-align: middle;}
-
-
-  .slideshow-container {
-    max-width: 800px;
-    position: relative;
-    margin: auto;
-  }
-
-  .prev, .next {
-    cursor: pointer;
-    position: 88800px;
-    top: 50%;
-    width: 20px;
-    padding: 16px;
-    margin-top: -22px;
+<style>
+.dropbtn {
+    background-color: black;
     color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 10px 10px 0;
-  }
-
-  .next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-  }
-
-  .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-  }
-
-  .text {
-    color: #f2f2f2;
-    font-size: 24px;
-    padding: 8px 12px;
-    position: absolute;
-    bottom: -38px;
-    width: 100%;
-    text-align: center;
-  }
-
-  .numbertext {
-    color: #f2f2f2;
-    font-size: 24px;
-    padding: 8px 12px;
-    position: absolute;
-    top: 0;
-  }
-
-  .dot {
+    padding: 16px;
+    font-size: 26px;
+    border: none;
     cursor: pointer;
-    height:20px;
-    width: 20px;
-    margin: 0 7px;
-    background-color: white;
-    border-radius: 50%;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: gray;
+}
+
+.dropdown {
+    position: margin-top;
     display: inline-block;
-    transition: background-color 0.6s ease;
-  }
+}
 
-  .active, .dot:hover {
-    background-color: #717171;
-  }
+.dropdown-content {
+    display: none;
+    position: center;
+    background-color: white;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
 
-  .fade {
-    -webkit-animation-name: fade;
-    -webkit-animation-duration: 1.5s;
-    animation-name: fade;
-    animation-duration: 1.5s;
-  }
+.dropdown-content a {
+    color: black;
+    padding: 20px 90px;
+    text-decoration: none;
+    display: block;
+}
 
-  @-webkit-keyframes fade {
-    from {opacity: .4}
-    to {opacity: 1}
-  }
+.dropdown a:hover {background-color: gray;}
 
-  @keyframes fade {
-    from {opacity: .4}
-    to {opacity: 1}
-  }
-
-  @media only screen and (max-width: 300px) {
-    .prev, .next,.text {font-size: 11px}
-  }
-
-  </br>
-  </style>
-  </head>
-  <body>
-
-  <div class="slideshow-container">
-
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
-    <img src="saladapranzo.png" style="width:100%">
-    <div class="text">sala da pranzo</div>
+.show {display: block;}
+</style>
+</head>
+<body>
+<div class="dropdown">
+<button onclick="myFunction()" class="dropbtn">MENU</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="whresidence.html">WH Residence</a>
+    <a href="location.html">Location</a>
+    <a href="il progetto.html">Project</a>
   </div>
+</div>
 
+<script>
 
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
-    <img src="cucina.png" style="width:100%">
-    <div class="text">cucina</div>
-  </div>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
 
-  <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
-    <img src="cameradaletto.png" style="width:50%">
-    <div class="text">camera da letto</div>
-  </div>
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
 
-
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-  </div>
-  <br>
-
-  <div style="text-align:center">
-    <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
-    <span class="dot" onclick="currentSlide(3)"></span>
-
-  </div>
-
-  <script>
-  var slideIndex = 1;
-  showSlides(slideIndex);
-
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
     var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
     }
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";
-    dots[slideIndex-1].className += " active";
   }
-  </script>
+}
+</script>
+<br>
+<br>
+<span style="font-family: Megan June; font-size: 20px; color: white;"
+>La residenza WH si trova in una zona vivace <br>
+e moderna di Odessa, città nei pressi del Mar <br>
+Nero. L'architettura comprende due case identiche <br>
+specchiate. Le facciate alte e piene creano uno <br>
+spazio riservato e intimo. La divisione degli spazi <br>
+avviene in tre diverse zone. <br>
+Al piano terra  vi sono gli spazi pubblici. La presenza <br>
+della piscina e del dehors sottolineano la funzionalità <br>
+e il concetto di comunità. Sullo stesso piano si trova <br>
+l'area tecnica.  <br>
+In questo modo il primo e il secondo piano sono  <br>
+interamente dedicati agli spazi privati. Ogni camera  <br>
+ha il proprio bagno creando così  blocchi abitativi distinti. <br>
+</span>
+</br>
+
+<br>
+<style>
+* {box-sizing: border-box}
+body {font-family: Avenir, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
 
 
-        <center>
-            <br>
-            <h3> <span style="font-family: Avenir; font-size: 30px; color: white;">ESTERNI</span>
-            </h3>
-            </br>
+.slideshow-container {
+  max-width: 800px;
+  position: relative;
+  margin: auto;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: 88800px;
+  top: 50%;
+  width: 20px;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 10px 10px 0;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.text {
+  color: #f2f2f2;
+  font-size: 24px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: -38px;
+  width: 100%;
+  text-align: center;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 24px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.dot {
+  cursor: pointer;
+  height:20px;
+  width: 20px;
+  margin: 0 7px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+</br>
+</style>
+</head>
+<body>
+<br>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 7</div>
+  <img src="foto6.png" style="width:100%">
+  <div class="text">entrata</div>
+</div>
 
 
-            <br>
-            <style>
-            * {box-sizing: border-box}
-            body {font-family: Avenir, sans-serif; margin:0}
-            .mySlides {display: none}
-            img {vertical-align: middle;}
+<div class="mySlides fade">
+  <div class="numbertext">2 / 7</div>
+  <img src="foto2.jpg" style="width:100%">
+  <div class="text">cucina</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 7</div>
+  <img src="foto3.png" style="width:100%">
+  <div class="text">piscine</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 7</div>
+  <img src="foto4.png" style="width:100%">
+  <div class="text">patio</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 7</div>
+  <img src="foto5.png" style="width:100%">
+  <div class="text">dehor</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 7</div>
+  <img src="foto1.png" style="width:100%">
+  <div class="text">toilette</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 7</div>
+  <img src="foto7.png" style="width:100%">
+  <div class="text">camera</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+<br>
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+</div>
+</br>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+</script>
 
 
-            .slideshow-container {
-              max-width: 800px;
-              position: relative;
-              margin: auto;
-            }
-
-            .prev, .next {
-              cursor: pointer;
-              position: 88800px;
-              top: 50%;
-              width: 20px;
-              padding: 16px;
-              margin-top: -22px;
-              color: white;
-              font-weight: bold;
-              font-size: 18px;
-              transition: 0.6s ease;
-              border-radius: 0 10px 10px 0;
-            }
-
-            .next {
-              right: 0;
-              border-radius: 3px 0 0 3px;
-            }
-
-            .prev:hover, .next:hover {
-              background-color: rgba(0,0,0,0.8);
-            }
-
-            .text {
-              color: #f2f2f2;
-              font-size: 24px;
-              padding: 8px 12px;
-              position: absolute;
-              bottom: -38px;
-              width: 100%;
-              text-align: center;
-            }
-
-            .numbertext {
-              color: #f2f2f2;
-              font-size: 24px;
-              padding: 8px 12px;
-              position: absolute;
-              top: 0;
-            }
-
-            .dot {
-              cursor: pointer;
-              height:20px;
-              width: 20px;
-              margin: 0 7px;
-              background-color: white;
-              border-radius: 50%;
-              display: inline-block;
-              transition: background-color 0.6s ease;
-            }
-
-            .active, .dot:hover {
-              background-color: #717171;
-            }
-
-            .fade {
-              -webkit-animation-name: fade;
-              -webkit-animation-duration: 1.5s;
-              animation-name: fade;
-              animation-duration: 1.5s;
-            }
-
-            @-webkit-keyframes fade {
-              from {opacity: .4}
-              to {opacity: 1}
-            }
-
-            @keyframes fade {
-              from {opacity: .4}
-              to {opacity: 1}
-            }
-
-            @media only screen and (max-width: 300px) {
-              .prev, .next,.text {font-size: 11px}
-            }
-
-            </br>
-            </style>
-            </head>
-            <body>
-
-            <div class="slideshow-container">
-
-            <div class="mySlides fade">
-              <div class="numbertext">1 / 5</div>
-              <img src="vista3D1.png" style="width:100%">
-              <div class="text">veduta esterna</div>
-            </div>
 
 
-            <div class="mySlides fade">
-              <div class="numbertext">2 / 5</div>
-              <img src="esterno.png" style="width:120%">
-              <div class="text">entrata principale</div>
-            </div>
 
-            <div class="mySlides fade">
-              <div class="numbertext">3 / 5</div>
-              <img src="vista3D2.png" style="width:60%">
-              <div class="text">veduta esterna</div>
-            </div>
-
-            <div class="mySlides fade">
-              <div class="numbertext">4 / 5</div>
-              <img src="vista3D3.png" style="width:70%">
-              <div class="text">veduta esterna</div>
-            </div>
-
-            <div class="mySlides fade">
-              <div class="numbertext">5 / 5</div>
-              <img src="vista3D4.png" style="width:100%">
-              <div class="text">veduta esterna</div>
-            </div>
-
-            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-            </div>
-            <br>
-
-            <div style="text-align:center">
-              <span class="dot" onclick="currentSlide(1)"></span>
-              <span class="dot" onclick="currentSlide(2)"></span>
-              <span class="dot" onclick="currentSlide(3)"></span>
-              <span class="dot" onclick="currentSlide(4)"></span>
-              <span class="dot" onclick="currentSlide(5)"></span>
-
-            </div>
-
-            <script>
-            var slideIndex = 1;
-            showSlides(slideIndex);
-
-            function plusSlides(n) {
-              showSlides(slideIndex += n);
-            }
-
-            function currentSlide(n) {
-              showSlides(slideIndex = n);
-            }
-
-            function showSlides(n) {
-              var i;
-              var slides = document.getElementsByClassName("mySlides");
-              var dots = document.getElementsByClassName("dot");
-              if (n > slides.length) {slideIndex = 1}
-              if (n < 1) {slideIndex = slides.length}
-              for (i = 0; i < slides.length; i++) {
-                  slides[i].style.display = "none";
-              }
-              for (i = 0; i < dots.length; i++) {
-                  dots[i].className = dots[i].className.replace(" active", "");
-              }
-              slides[slideIndex-1].style.display = "block";
-              dots[slideIndex-1].className += " active";
-            }
-            </script>
-
-            </body>
-            </html>
+</body>
+</html>
