@@ -1,0 +1,134 @@
+h1 {
+  background-color: white;
+  width: 400px;
+  border: 2px solid #337ab7;
+  font-family: Courier;
+  font-size: 32px;
+  text-align: center;
+}
+
+h2 {
+color:#337ab7;
+font-size: 22px;
+line-height: 2;
+font-family: Courier;
+}
+
+h3 {
+  font-family: Courier;
+}
+
+p {
+text-align: justify;
+font-family: Courier;
+}
+
+u {
+  font-family: Courier;
+}
+
+figcaption {
+  font-family: Courier;
+  font-size: 15px;
+}
+
+span {
+  color:red;
+  display: block;
+}
+
+header {
+font-family: Courier;
+  height: 100%;
+width: 404px;
+/* float: left; */
+position: fixed;
+}
+
+main {
+  margin-left: 300px;
+    padding: 20px;
+}
+
+#cucina {
+  width:300px;
+  padding: 20px;
+  border: 10px solid;
+  border-color: whitesmoke;
+}
+
+#cucina2 {
+  width:300px;
+  padding: 20px;
+  border: 10px solid;
+  border-color: whitesmoke;
+}
+
+div {
+  position: relative;
+  left: 200px;
+  width: 900px;
+}
+
+#tatami {
+  width: 745px;
+  height: 500px;
+  padding: 20px;
+  border: 10px solid;
+  border-color: whitesmoke;
+}
+
+#scala {
+  width: 300px;
+  padding: 20px;
+  border: 10px solid;
+  border-color: whitesmoke;
+}
+
+#libreria {
+  width: 300px;
+  height: 450px;
+  padding: 20px;
+  border: 10px solid;
+  border-color: whitesmoke;
+}
+
+#mappa {
+  width: 400px;
+  position: absolute;
+  top: 350px;
+  left: 5px;
+  border: 2px solid #337ab7;
+}
+
+#scrivania {
+    width: 745px;
+    height: 500px;
+    padding: 20px;
+    border: 10px solid;
+    border-color: whitesmoke;
+  }
+#giardino {
+  width: 745px;
+  height: 500px;
+  padding: 20px;
+  border: 10px solid;
+  border-color: whitesmoke;
+}
+
+#prospetti {
+  width: 1000px;
+  margin-left: -80px;
+}
+
+.imgInLineBlock {
+  display: inline-block;
+}
+
+.blocco2 {
+  display: inline-block;
+}
+
+.render {
+  width: 200px
+}
