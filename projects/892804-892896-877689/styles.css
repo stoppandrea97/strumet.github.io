@@ -1,0 +1,98 @@
+body {
+    background-color: white;
+}
+h1 {
+    color: black;
+}
+p {
+    color: black
+
+     ;
+}.titoli
+h1{ color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 80px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; margin-top: 50px;}
+h2{ color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 50px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+p { color: #685206; font-family: 'Helvetica Neue', sans-serif;font-size: 14px; line-height: 8px; text-align: center; text-justify: inter-word;
+  margin-top: 100px;
+  margin-bottom: 0px;
+}
+h1 {
+    text-align: center; line-height: 0;
+}
+h2 {
+    text-align: center; line-height: 1;
+}
+div {
+  text-align: center
+  }
+.Foto
+{   margin-top: 200px;
+  }
+.Foto2
+  {   margin-top: 60px;
+    }
+.Foto3
+      {  margin-top: 60px;
+         margin-bottom: 200px
+        }
+.links
+{color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 15px; letter-spacing: 2px; line-height: 1; text-align: center;
+margin-bottom: 80px; margin-top: 30px;}
+
+.links2
+{color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 15px; letter-spacing: 2px; line-height: 1; text-align: center;
+margin-top: 100px}
+  }
+.block {
+      margin-left: auto;
+      margin-right:auto;
+      margin-top: 200px ;
+      width: 5px;
+
+  }
+
+  .column {
+      float: left;
+      width: 25%;
+      padding: 15px;
+
+  }
+
+  .column img {
+      opacity: 0.8;
+      cursor: pointer;
+  }
+
+  .column img:hover {
+      opacity: 1;
+  }
+
+  .row:after {
+      content: "";
+      display: table;
+      clear: both;
+  }
+
+  .container {
+      position: relative;
+      display: none;
+      width:100%;
+  }
+
+  #imgtext {
+      position: absolute;
+      bottom: 15px;
+      left: 15px;
+      color: black;
+      font-size: 20px;
+      font-family: 'Helvetica Neue',;
+  }
+
+  .closebtn {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      color: black;
+      font-size: 35px;
+      cursor: pointer;
+    ;
+  }
