@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face{
+	font-family: 'Lato';
+	src: url(Lato-Light.eot) format('embedded-opentype');
+	src: url(Lato-Light.woff) format('woff'),
+		url(Lato-Light.ttf) format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Dosis';
+	src: url(Dosis-Light.eot) format('embedded-opentype');
+	src: url(Dosis-Light.woff) format('woff'),
+		url(Dosis-Light.ttf) format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+h1 {
+	font-family: lato;
+	font-weight: lighter;
+	font-stretch:extra-expanded;
+	font-size: 25pt;
+	color: white;
+	text-align: center;
+	letter-spacing: 8px;
+}
+p{
+	color: white;
+	font-family: lato;
+	font-size: 11pt;
+	margin-right: 200px;
+	text-align: right
+}
+#bianco{
+	color: white
+}
+header{
+	background-color: rgba(15,15,25,1.00);
+	padding: 30px 0 1px;
+}
+main{
+	display: block;
+	padding-left:200px;
+}
+aside{
+	display: block;
+	margin-top: 120px;
+
+}
+img{
+	width: 550px;
+}
+a{
+	color: rgba(15,15,25,1.00);
+	text-decoration: none;
+}
+table{
+	float: left;
+	table-layout: fixed;
+	width: 50%;
+	padding-top: 40px;
+}
+th,td{
+	color: rgba(15,15,25,1.00);
+	border-collapse: collapse;
+	padding:5px 8px 5px 8px;
+}
+th{
+	font-family: lato;
+	font-weight: 100;
+	font-size: 13pt;
+	text-align: left;
+	line-height: 150%;
+	border-bottom: 1pt solid rgba(15,15,25,1.00);
+}
+td{
+	font-family: lato;
+	font-size: 11pt;
+	text-align: right;
+	font-weight: 100;
+	padding-bottom: 0;
+	padding-left: 10px;
+}
