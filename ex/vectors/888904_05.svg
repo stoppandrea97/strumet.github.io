@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1190.6 1190.6" style="enable-background:new 0 0 1190.6 1190.6;" xml:space="preserve">
 <style type="text/css">
@@ -30,7 +30,7 @@
 	<rect x="615.5" y="891.7" class="st1" width="239.4" height="239.4"/>
 	<rect x="891.7" y="891.7" class="st1" width="239.4" height="239.4"/>
 </g>
-<g id="Livello_2">
+<g id="Livello_2_1_">
 	<rect x="63" y="63" class="st2" width="184.1" height="184.1"/>
 	<rect x="284" y="63" class="st2" width="184.1" height="184.1"/>
 	<rect x="505" y="63" class="st2" width="184.1" height="184.1"/>
@@ -95,16 +95,18 @@
 	<rect x="799.7" y="983.8" class="st3" width="147.3" height="147.3"/>
 	<rect x="983.8" y="983.8" class="st3" width="147.3" height="147.3"/>
 	<g>
-		<defs>
-			<circle id="SVGID_1_" cx="689.2" cy="320.8" r="188.4"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-		</clipPath>
-		<g class="st4">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="1920" height="1280" xlink:href="888904_05.estensione.jpg"  transform="matrix(0.6 0 0 0.6 245.26 104.91)">
-			</image>
+		<g>
+			<defs>
+				<circle id="SVGID_1_" cx="689.2" cy="320.8" r="188.4"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st4">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="1920" height="1280" xlink:href="888904_05.jpg"  transform="matrix(0.6 0 0 0.6 245.26 104.91)">
+				</image>
+			</g>
 		</g>
 	</g>
 </g>

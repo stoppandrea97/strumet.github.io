@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face{
+	font-family: 'Lato';
+	src: url(Lato-Light.eot) format('embedded-opentype');
+	src: url(Lato-Light.woff) format('woff'),
+		url(Lato-Light.ttf) format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Dosis';
+	src: url(Dosis-Light.eot) format('embedded-opentype');
+	src: url(Dosis-Light.woff) format('woff'),
+		url(Dosis-Light.ttf) format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+header{
+	background-color: rgba(15,15,25,1.00);
+	padding: 30px 0 1px;
+	width: 100%;
+	margin-top: 0px;
+}
+h1 {
+	font-family: lato;
+	font-weight: lighter;
+	font-stretch:extra-expanded;
+	font-size: 25pt;
+	color: white;
+	text-align: center;
+	letter-spacing: 8px;
+}
+
+p{
+	font-family: lato;
+	font-size: 11pt;
+	margin-right: 200px;
+	text-align: right
+}
+#bianco{
+	color:white;
+	text-decoration: none;
+	box-decoration-break: none;
+}
+img{
+	max-width:100%;
+	width: 100%;
+}
+#boh{
+	color: rgba(15,15,25,1.00);
+	text-decoration: none;
+	margin-bottom: 40px;
+}
+figcaption{
+	text-align: center;
+	color: rgba(15,15,25,1.00);
+	font-family: lato;
+	font-size: 11pt;
+}
+

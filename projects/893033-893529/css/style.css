@@ -1,0 +1,42 @@
+.h3 {
+  font-size: 30px;
+}
+
+@media screen and (min-width: 1088px) {
+  .container>.navbar .navbar-brand, .navbar>.container .navbar-brand {
+    margin-left: -.75rem !important;
+  }
+
+  .container > .navbar .navbar-menu, .navbar > .container .navbar-menu {
+    margin-right: 0 !important;
+  }
+}
+
+.testo{
+  margin-top: 1.5rem;
+}
+
+.title {
+  margin-top: 1.5rem;
+}
+
+.container-nav {
+  border-bottom: 5px solid #29866e;
+}
+
+a {
+  color: #29866e !important
+}
+
+a:hover {
+  color: #333 !important
+}
+
+::selection {
+  background-color: #29866e;
+  color: #fff
+}
+
+#m-img {
+ background: #fff 
+}

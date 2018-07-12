@@ -1,0 +1,68 @@
+.quadro {
+  width: 800px;
+  height: 230px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+  border:20px;
+  padding:20px;
+  margin:20px;
+  margin color: #b7b7b9;
+  letter-spacing: 5px;
+  text-align: center;
+  text-align: justify;
+  background-color: #b7b7b9;
+}
+
+.baubau{
+  color: #204309;
+  width: 100%;
+  height: 100vh;
+  background-image: url("06.jpg");
+
+}
+
+
+.principal{
+  left: 38%;
+  top: 14%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+  letter-spacing: 5px;
+  text-align: center;
+}
+.principal h1{
+  color: #204309;
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+.principal p{
+  color: #204309;
+  font-size: 20px;
+}
+
+
+ul{
+  float: right;
+  list-style-type: none;
+  margin-top: 25px;
+  margin-right: 25px;
+}
+
+ul li{
+  display: inline-block;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #204309;
+  padding: 5px 20px;
+  border: 1px solid #204309;
+  transition: 0.6s ease;
+  }
+
+ul li a:hover{
+  background-color: #fff;
+  color:#000;
+}

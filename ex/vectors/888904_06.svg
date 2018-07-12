@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1190.6 1190.6" style="enable-background:new 0 0 1190.6 1190.6;" xml:space="preserve">
 <style type="text/css">
@@ -37,7 +37,7 @@
 	<rect x="615.5" y="891.7" class="st1" width="239.4" height="239.4"/>
 	<rect x="891.7" y="891.7" class="st1" width="239.4" height="239.4"/>
 </g>
-<g id="Livello_2">
+<g id="Livello_2_1_">
 	<rect x="63" y="63" class="st2" width="184.1" height="184.1"/>
 	<rect x="284" y="63" class="st2" width="184.1" height="184.1"/>
 	<rect x="505" y="63" class="st2" width="184.1" height="184.1"/>
@@ -72,7 +72,14 @@
 	<rect x="798.7" y="63" class="st3" width="147.3" height="147.3"/>
 	<rect x="982.8" y="63" class="st3" width="147.3" height="147.3"/>
 	<rect x="64" y="247.2" class="st4" width="147.3" height="147.3"/>
-	<text transform="matrix(1 0 0 1 64 259.3596)"><tspan x="0" y="0" class="st5 st6">Lorem ipsum dolor </tspan><tspan x="0" y="24" class="st5 st6">sit amet, consecte</tspan><tspan x="129.3" y="24" class="st5 st6">-</tspan><tspan x="0" y="48" class="st5 st6">tuer adipiscing elit, </tspan><tspan x="0" y="72" class="st5 st6">sed diam nonummy </tspan><tspan x="0" y="96" class="st5 st6">nibh euismod tinci</tspan><tspan x="132.3" y="96" class="st5 st6">-</tspan><tspan x="0" y="120" class="st5 st6">dunt ut laoreet </tspan></text>
+	<text transform="matrix(1 0 0 1 64 259.3596)" class="st5 st6">Lorem ipsum dolor </text>
+	<text transform="matrix(1 0 0 1 64 283.3596)" class="st5 st6">sit amet, consecte</text>
+	<text transform="matrix(1 0 0 1 193.3 283.3596)" class="st5 st6">-</text>
+	<text transform="matrix(1 0 0 1 64 307.3596)" class="st5 st6">tuer adipiscing elit, </text>
+	<text transform="matrix(1 0 0 1 64 331.3596)" class="st5 st6">sed diam nonummy </text>
+	<text transform="matrix(1 0 0 1 64 355.3596)" class="st5 st6">nibh euismod tinci</text>
+	<text transform="matrix(1 0 0 1 196.3 355.3596)" class="st5 st6">-</text>
+	<text transform="matrix(1 0 0 1 64 379.3596)" class="st5 st6">dunt ut laoreet </text>
 	<rect x="246.2" y="247.2" class="st3" width="147.3" height="147.3"/>
 	<rect x="430.3" y="247.2" class="st3" width="147.3" height="147.3"/>
 	<rect x="614.5" y="247.2" class="st3" width="147.3" height="147.3"/>
@@ -104,16 +111,18 @@
 	<rect x="982.8" y="983.8" class="st3" width="147.3" height="147.3"/>
 	<g>
 		<g>
-			<defs>
-				<circle id="SVGID_1_" cx="688.2" cy="320.8" r="188.4"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			<g class="st7">
-				
-					<image style="overflow:visible;enable-background:new    ;" width="1920" height="1280" xlink:href="888904_05.estensione.jpg"  transform="matrix(0.6 0 0 0.6 244.26 104.91)">
-				</image>
+			<g>
+				<defs>
+					<circle id="SVGID_1_" cx="688.2" cy="320.8" r="188.4"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st7">
+					
+						<image style="overflow:visible;enable-background:new    ;" width="1920" height="1280" xlink:href="888904_05.jpg"  transform="matrix(0.6 0 0 0.6 244.26 104.91)">
+					</image>
+				</g>
 			</g>
 		</g>
 	</g>

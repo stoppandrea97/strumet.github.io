@@ -88,9 +88,6 @@
 	<rect x="945.5" y="503.1" class="st2" width="184.3" height="184.3"/>
 	<rect x="945.5" y="724.2" class="st2" width="184.3" height="184.3"/>
 	<rect x="945.5" y="945.3" class="st2" width="184.3" height="184.3"/>
-	
-		<image style="overflow:visible;enable-background:new    ;" width="2500" height="4181" xlink:href="894161_3.JPG"  transform="matrix(9.694403e-02 0 0 9.694403e-02 890.1486 61.0076)">
-	</image>
 </g>
 <g id="Livello_4">
 	<rect x="60.9" y="61" class="st3" width="147.4" height="147.4"/>
@@ -130,4 +127,6 @@
 	<rect x="982.3" y="429.5" class="st3" width="147.4" height="147.4"/>
 	<rect x="982.3" y="245.2" class="st3" width="147.4" height="147.4"/>
 </g>
+<image style="overflow:visible;" width="2500" height="4181" xlink:href="894161_03.JPG"  transform="matrix(0.1322 0 0 0.1322 798 61)">
+</image>
 </svg>

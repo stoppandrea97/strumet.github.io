@@ -1,0 +1,51 @@
+.container{
+  display: flex;
+  flexflow: row wrap;
+}
+.colonna1, .colonna3, .colonna4 {
+  flex:1;
+  padding:10px;
+  font-family: 'Pavanam', sans-serif;
+  font-size: 20px;
+}
+.colonna2 {
+  flex:2;
+  padding:8px;
+    font-family: 'Pavanam', sans-serif;
+    font-size: 20px;
+}
+img {
+  max-width: 100%;
+  width: 300px;
+}
+h1, h2 {
+  font-family: 'Barlow', sans-serif;
+}
+h2{
+  font-size: 30px;
+  color: #EFB416;
+}
+.titolo{
+  background-color: #004561;
+  color: white;
+  margin: 6px;
+}
+h1 {
+  padding:10px;
+}
+a {
+  color: #EFB416;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 1px solid #004561;
+}
+
+::selection {
+  background-color: #87ffaa;
+}
+.container{
+  background-color: #DCECFF;
+  margin: 6px;
+}

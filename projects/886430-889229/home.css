@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+@font-face{
+	font-family: 'Lato';
+	src: url(Lato-Light.eot) format('embedded-opentype');
+	src: url(Lato-Light.woff) format('woff'),
+		url(Lato-Light.ttf) format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+@font-face{
+	font-family: 'Dosis';
+	src: url(Dosis-Light.eot) format('embedded-opentype');
+	src: url(Dosis-Light.woff) format('woff'),
+		url(Dosis-Light.ttf) format('truetype');
+	font-weight: lighter;
+	font-style: normal;
+}
+
+h1 {
+	font-family: lato;
+	font-weight: lighter;
+	font-stretch:extra-expanded;
+	font-size: 35pt;
+	color: white;
+	text-align: center;
+	letter-spacing: 15px;
+}
+h2{
+	font-family: lato;
+	font-weight:lighter; 
+	font-size: 18pt;
+	letter-spacing: 6px;
+	color: white;
+	text-align: center;
+	line-height: 10%
+}
+header {
+	padding: 5px 0px 5px;
+	background-size:cover;
+	background-color: rgba(15,15,25,1.00);
+	width: 100%;
+}
+
+@keyframes lampeggio {
+	0% { width: 21px; }
+	50% { width: 31px;}
+	100% { width: 21px;}
+}
+.pallino{
+	animation-name: lampeggio;
+	animation-duration: 3s;
+	animation-delay: 1s;
+	animation-iteration-count: infinite;
+}
+#info{
+	position: absolute;
+	top: 30%;
+	left: 39.75%
+}
+#drawing{
+	position: absolute;
+	top: 30%;
+	left: 49%
+}
+#photo{
+	position: absolute;
+	top:30%;
+	left: 58.5%
+}
+#background {
+	height: auto;
+	object-fit: contain;
+	width: 100%;
+	left: 0px;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="links">
+    <div class="links" id="links">
+      <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+        <i class="fa fa-bars"></i>
+      </a>
+      <a href="#home" class="w3-bar-item w3-button">HOME</a>
+      <a href="file:///C:/Users/andre/Desktop/Mio.html" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i>INOSTUDIO</a>
+      <a href="#disegni" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> DISEGNI</a>
+      <a href="#foto" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i>FOTO</a>
+      <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
+        <i class="fa fa-search"></i>
+      </a>
+    </div>
+<h1>Courtyard House </h1>
+<h2>Inostudio </h2>
+<img src="2.jpg" alt="Courtyard House" width="500" height="600" class="left">
+</body>
+</html>
